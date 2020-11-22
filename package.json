@@ -1,0 +1,21 @@
+{
+  "name": "try-webpack-loaders",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronan-try/try-webpack-loaders.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ronan-try/try-webpack-loaders/issues"
+  },
+  "homepage": "https://github.com/ronan-try/try-webpack-loaders#readme",
+  "devDependencies": {
+    "webpack-cli": "^4.2.0"
+  }
+}
